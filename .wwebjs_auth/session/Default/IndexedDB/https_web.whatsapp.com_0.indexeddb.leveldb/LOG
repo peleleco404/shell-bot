@@ -1,0 +1,28 @@
+2025/06/09-04:28:57.589 1278 Reusing MANIFEST C:\Users\usuartio\Documents\shell-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/09-04:28:57.589 1278 Recovering log #60
+2025/06/09-04:28:57.799 1278 Reusing old log C:\Users\usuartio\Documents\shell-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000060.log 
+2025/06/09-04:28:57.799 1278 Delete type=2 #58
+2025/06/09-04:28:57.799 1278 Delete type=2 #59
+2025/06/09-04:28:57.799 1278 Delete type=2 #61
+2025/06/09-04:28:59.749 1278 Level-0 table #66: started
+2025/06/09-04:28:59.775 1278 Level-0 table #66: 677208 bytes OK
+2025/06/09-04:28:59.776 1278 Delete type=0 #60
+2025/06/09-04:28:59.777 1278 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/09-04:28:59.785 1278 Level-0 table #68: started
+2025/06/09-04:28:59.796 1278 Level-0 table #68: 445 bytes OK
+2025/06/09-04:28:59.797 1278 Delete type=0 #65
+2025/06/09-04:28:59.798 1278 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 330998 : 0
+2025/06/09-04:28:59.798 1278 Compacting 1@0 + 1@1 files
+2025/06/09-04:28:59.835 1278 Generated table #69@0: 13870 keys, 351815 bytes
+2025/06/09-04:28:59.835 1278 Compacted 1@0 + 1@1 files => 351815 bytes
+2025/06/09-04:28:59.835 1278 compacted to: files[ 0 1 2 0 0 0 0 ]
+2025/06/09-04:28:59.835 1278 Delete type=2 #68
+2025/06/09-04:28:59.836 1278 Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 330998 : 0 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/09-04:29:02.994 1278 Compacting 1@1 + 1@2 files
+2025/06/09-04:29:03.146 1278 Generated table #70@1: 41688 keys, 2205718 bytes
+2025/06/09-04:29:03.151 1278 Generated table #71@1: 532 keys, 45499 bytes
+2025/06/09-04:29:03.151 1278 Compacted 1@1 + 1@2 files => 2251217 bytes
+2025/06/09-04:29:03.152 1278 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/06/09-04:29:03.153 1278 Delete type=2 #62
+2025/06/09-04:29:03.153 1278 Delete type=2 #66
+2025/06/09-04:29:03.153 1278 Delete type=2 #69
